@@ -1,4 +1,4 @@
-# OpenTelemetry-Go
+# OpenTelemetry-Go just checking
 
 [![ci](https://github.com/open-telemetry/opentelemetry-go/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/open-telemetry/opentelemetry-go/actions/workflows/ci.yml)
 [![codecov.io](https://codecov.io/gh/open-telemetry/opentelemetry-go/coverage.svg?branch=main)](https://app.codecov.io/gh/open-telemetry/opentelemetry-go?branch=main)
